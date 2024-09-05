@@ -1,5 +1,5 @@
 # ColorSwitchCloneGameCode
-Developed using Unity 2022.3.21f1
+Developed using Unity 2022.3.21f1. WebGL build hosted here - https://raashidkhan1.github.io/ColorSwitchClone/
 
 > Game Features
 1. ##### Welcome Screen
